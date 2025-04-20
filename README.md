@@ -44,7 +44,8 @@ Advanced SQL queries using joins, subqueries, and aggregation for business repor
 ## 📫 Let’s Connect!
 
 🔗 [LinkedIn](https://www.linkedin.com/in/dakshina-deekjith-dv-373167206/)  
-📄 [View My Resume](https://github.com/DakshinaDeekjith/DakshinaDeekjith/blob/main/DAKSHINA%20DEEKJITH%20DV-Resume.pdf)
+📄 [View My Resume]
+[DAKSHINA DEEKJITH DV-Resume (3).pdf](https://github.com/user-attachments/files/19826802/DAKSHINA.DEEKJITH.DV-Resume.3.pdf)
 📧 dakshinadeekjith7@gmail.com
 
 ---
