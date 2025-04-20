@@ -28,13 +28,13 @@ I’ve built hands-on projects in:
 
 ## 📁 Featured Projects
 
-🔹 [Trauma Symptom Identifier](https://github.com/YOUR_USERNAME/trauma-symptom-identifier)  
+🔹 [Trauma Symptom Identifier](https://github.com/DakshinaDeekjith/trauma-symptom-identifier)  
 ML-based real-time text classifier that detects trauma symptoms using NLP.
 
-🔹 [Sales Forecasting Automation](https://github.com/YOUR_USERNAME/sales-forecasting-automation)  
+🔹 [Sales Forecasting Automation](https://github.com/DakshinaDeekjith/sales-forecasting-automation)  
 Python project to clean data, analyze trends, and forecast future sales.
 
-🔹 [SQL Analytics Projects](https://github.com/YOUR_USERNAME/sql-analysis-projects)  
+🔹 [SQL Analytics Projects](https://github.com/DakshinaDeekjith/sql-analysis-projects)  
 Advanced SQL queries using joins, subqueries, and aggregation for business reporting.
 
 🔹 Power BI & Tableau Dashboards *(Coming Soon)*
