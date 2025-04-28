@@ -37,14 +37,13 @@ Python project to clean data, analyze trends, and forecast future sales.
 🔹 [SQL Analytics Projects](https://github.com/DakshinaDeekjith/sql-analysis-projects)  
 Advanced SQL queries using joins, subqueries, and aggregation for business reporting.
 
-🔹 Power BI & Tableau Dashboards *(Coming Soon)*
+🔹 Power BI & Tableau Dashboards *(In Progress)*
 
 ---
 
 ## 📫 Let’s Connect!
 
-🔗 [LinkedIn](https://www.linkedin.com/in/dakshina-deekjith-dv-373167206/)  
-📄 [View My Resume] [DakshinaDeekjithDV-Resume.pdf](https://github.com/user-attachments/files/19833858/DakshinaDeekjithDV-Resume.pdf)
+🔗 [LinkedIn] [DakshinaDeekjithDV_CV.pdf](https://github.com/user-attachments/files/19938952/DakshinaDeekjithDV_CV.pdf)
 
 📧 dakshinadeekjith7@gmail.com
 
