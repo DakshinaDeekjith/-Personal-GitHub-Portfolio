@@ -43,13 +43,14 @@ Advanced SQL queries using joins, subqueries, and aggregation for business repor
 
 ## 📫 Let’s Connect!
 
-🔗 [LinkedIn] [DakshinaDeekjithDV_CV.pdf](https://github.com/user-attachments/files/19938952/DakshinaDeekjithDV_CV.pdf)
+🔗 [LinkedIn]  [DakshinaDeekjithDV_CV.pdf](https://github.com/user-attachments/files/19959235/DakshinaDeekjithDV_CV.pdf)
 
 📧 dakshinadeekjith7@gmail.com
 
 ---
 
 Thanks for visiting! 😊
+
 
 
 
